@@ -2,7 +2,7 @@ import { Button, Input } from '@xue/ui';
 function App() {
   return (
     <>
-      <Button></Button>
+      <Button>default</Button>
       <Input></Input>
     </>
   );
