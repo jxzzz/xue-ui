@@ -1,0 +1,17 @@
+{
+  "name": "xuu-ui",
+  "private": false,
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.es.js",
+  "module": "dist/index.es.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
